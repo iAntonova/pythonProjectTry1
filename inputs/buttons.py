@@ -30,6 +30,7 @@ async def main():
         await context.tracing.stop(path="logs/trace.zip")
         # -Closing browser
         await browser.close()
+
         # # -Right Click - Asking behavior at: https://github.com/microsoft/playwright-python/iss
         # button = page.locator("text=Click Me").nth(1)
         # await button.click(button="right")
