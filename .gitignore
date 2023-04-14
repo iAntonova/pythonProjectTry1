@@ -1,0 +1,6 @@
+/venv/
+/pytest/.pytest_cache
+/.pytest_cache
+/test-results
+/logs
+/screenshots
