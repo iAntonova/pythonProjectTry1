@@ -27,3 +27,7 @@ playwright codegen --timezone="Europe/Rome" --geolocation="41.890221,12.492348" 
 Debugging Selectors: https://playwright.dev/python/docs/debug-selectors
 
 # BrowserContext: https://playwright.dev/python/docs/api/class-browsercontext
+
+# API testing: https://playwright.dev/python/docs/api-testing
+# APIRequestContext: https://playwright.dev/python/docs/api/class-apirequestcontext
+# Page object models: https://playwright.dev/python/docs/pom
